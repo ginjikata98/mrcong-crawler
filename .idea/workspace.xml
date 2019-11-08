@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebeba831-72bf-4fbe-a49e-7c36ec353ea7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T6KJG8tJwYvMnasDdmPbhl382y" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\mr-cong-img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebeba831-72bf-4fbe-a49e-7c36ec353ea7" name="Default Changelist" comment="" />
+      <created>1572775031337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572775031337</updated>
+      <workItem from="1572775040496" duration="755000" />
+      <workItem from="1572775821155" duration="10548000" />
+      <workItem from="1572841101703" duration="1351000" />
+      <workItem from="1572847869768" duration="1450000" />
+      <workItem from="1572880664927" duration="44000" />
+      <workItem from="1572963291509" duration="1139000" />
+      <workItem from="1573006187334" duration="25000" />
+      <workItem from="1573042440318" duration="197000" />
+      <workItem from="1573089104710" duration="186000" />
+      <workItem from="1573128413116" duration="37000" />
+      <workItem from="1573222795211" duration="598000" />
+      <workItem from="1573228054660" duration="2410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

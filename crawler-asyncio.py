@@ -8,7 +8,7 @@ import requests
 
 URL = 'https://mrcong.com/page/'
 WEB_URL = 'http://localhost:8080/api'
-MAX_PAGE = 200
+MAX_PAGE = 3
 global hed
 
 
@@ -28,7 +28,10 @@ async def get_all_links(url, session):
                     "donwloadLink": download_link[0].get('href'),
                     "isOpen": False,
                 }
-                requests.post(f"{WEB_URL}/posts", json=new_post, headers=hed)
+                try:
+                    requests.post(f"{WEB_URL}/posts", json=new_post, headers=hed)
+                except Exception:
+                    pass
 
 
 async def download_all_sites(sites):

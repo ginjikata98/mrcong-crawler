@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 rarfile = "*"
 image = "*"
+beautifulsoup4 = "*"
+requests = "*"
+aiohttp = "*"
+mysql = "*"
 
 [requires]
 python_version = "3.7"

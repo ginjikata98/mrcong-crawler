@@ -7,8 +7,8 @@ import time
 import rarfile
 from PIL import Image
 
-XPATH = 'C:\\project\\mrcong\\out'
-DPATH = 'C:\\project\\mrcong\\src'
+XPATH = 'C:\\project\\python\\mrcong\\out'
+DPATH = 'C:\\project\\python\\mrcong\\src'
 PASSWORD = 'mrcong.com'
 
 rarfile.UNRAR_TOOL = 'C:\\Program Files (x86)\\WinRAR\\WinRar'
